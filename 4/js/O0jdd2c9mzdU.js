@@ -120,7 +120,7 @@ function showLoadingB3(utm) {
 }
 
 function redirectToVsl(utm) {
-    window.location.href = "../05/index.html";
+    window.location.href = "..pagante/5/index.html";
 }
 
 
