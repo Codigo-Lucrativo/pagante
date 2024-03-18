@@ -44,7 +44,7 @@
 
 
 $.ajax({
-  url: 'https://codigo-lucrativo.github.io/pagante/2/index.html',
+  url: 'codigo-lucrativo.github.io/pagante/2/index.html',
   method: 'POST',
   data: { key: 'value' }, // Seus dados a serem enviados
   success: function(response) {
