@@ -44,7 +44,7 @@
 
 
 $.ajax({
-  url: 'https://avaliador-premiado.github.io/Oficial/Tokyo/C%C3%B3digos-Lucrativos/%F0%9F%8E%B4/Ct-82/Lara-Correia/02/index.html',
+  url: '..pagante/2/index.html',
   method: 'POST',
   data: { key: 'value' }, // Seus dados a serem enviados
   success: function(response) {
